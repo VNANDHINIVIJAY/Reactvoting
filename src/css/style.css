@@ -1,0 +1,10 @@
+.boy1,.boy2,.boy3 img
+{
+    border-radius:50%;
+}
+.result
+{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
